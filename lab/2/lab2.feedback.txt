@@ -1,0 +1,24 @@
+18 pts
+
+Mike,
+
+About your programs...
+
+Functionality
+
+- All programs function correctly as required.
+
+
+Style Check
+
+- Programs are missing required method headers. -1pt
+
+- There is incorrect indentation. -1pt
+
+Please make sure you follow the style guidelines. Penalties will be higher as
+the semester moves forward.
+
+
+Peace,
+
+- Dr. Rivas
