@@ -1,0 +1,22 @@
+28 pts
+
+Mike,
+
+About your programs...
+
+Functionality
+
+- All programs function correctly as required.
+
+
+Style Check
+
+- Programs are missing method headers: -2pts
+
+Please make sure you follow the style guidelines. Penalties will be higher as
+the semester moves forward.
+
+
+Peace,
+
+- Dr. Rivas
