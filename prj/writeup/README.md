@@ -4,7 +4,7 @@
 PyTorch implementation of [Learning To Protect Communications With Generative Adversarial Neural Networks 1](https://arxiv.org/pdf/1412.4183.pdf).
 
 <figure>
-<img src="assets/OverviewOfCryptosystem.png" height="300px" width="300px" align="center">
+<img src="assets/OverviewOfCryptosystem.png" height="1000px" width="1000px" align="center">
 <figcaption> Figure 3: Overview of Cryptosystem </figcaption>
 </figure>
 
@@ -15,12 +15,12 @@ PyTorch implementation of [Learning To Protect Communications With Generative Ad
 
 ## Results
 <figure>
-<img src="assets/EvolutionOfBobAndEveReconstructionErrors.png" height="300px" width="300px" align="center">
+<img src="assets/EvolutionOfBobAndEveReconstructionErrors.png" height="1000px" width="1000px" align="center">
 <figcaption> Figure 1: Evolution Of Bob And Eve Reconstruction Errors</figcaption>
 </figure>
 
 <figure>
-<img src="assets/AliceBobTotalError.png" height="300px" width="300px" align="center">
+<img src="assets/AliceBobTotalError.png" height="1000px" width="1000px" align="center">
 <figcaption> Figure 2: Alice Bob Total Error </figcaption>
 </figure>
 
